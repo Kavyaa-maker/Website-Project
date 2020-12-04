@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home</title>
+	<link href="css/style.css" type="text/css" rel="stylesheet" >
+	<script type="text/javascript" src="js/slide.js"></script>
+  </head>
+<body style="background:pink;">
+
+	<nav>
+		<div class="left-links">
+		<a class="links selected" href="home.html">Home</a>
+		<a class="links" href="about.html"> About</a>
+		<a class="links" href="register.html"> Register</a>
+		</div>
+		<div class="right-links">
+		<a class="links" href="contact.hml">Contact Us</a>
+		</div>
+	</nav>
+	<div id="header">
+	</div>
+<marquee><p style="font-size:20px; font-weight:bold;">Welcome to Student Registration Website...!</p></marquee>
+
+  <img src="image/S1.jpg" style="width:1510px; height:550px; margin-left:10px;">
+  <br>
+  <br>
+  <div class="footer1">
+	  <p>Student Registration © 2020 Copyright</p>
+  </div>
+</body>
+</html>

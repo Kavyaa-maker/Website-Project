@@ -1,0 +1,62 @@
+
+<html>
+    <head>
+        <title>Home</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script type="text/javascript" src='js/main.js'></script>
+    </head>
+<body>
+<nav>
+		<div class="left-links">
+		<a class="links selected" href="home.html">Home</a>
+		<a class="links" href="about.html"> About</a>
+		<a class="links" href="register.html"> Register</a>
+		</div>
+	</nav>
+$nsbp;
+$nsbp;
+$nsbp;
+	<!-- Contact form -->
+	<div class="contact-form">
+	 <div class="container">
+		 <h1 class="text-center">Contact Us</h1>
+	  <form>
+	   <div class="row">
+		<div class="col-lg-4 col-md-4 col-sm-12">
+		  <h1>Get in Touch</h1> 
+		</div>
+		<div class="col-lg-8 col-md-8 col-sm-12 right">
+		   <div class="form-group">
+			 <input type="text" class="form-control form-control-lg" placeholder="Your Name" name="">
+		   </div>
+		   <div class="form-group">
+			 <input type="email" class="form-control form-control-lg" placeholder="YourEmail@email.com" name="email">
+		   </div>
+			<div class="form-group">
+			 <input type="number" class="form-control form-control-lg" placeholder="Mobile No" name="email">
+		   </div>
+		   <div class="form-group">
+			 <textarea class="form-control form-control-lg" >
+
+			 </textarea>
+		   </div>
+		   <input type="submit" class="btn btn-secondary btn-block" value="Send" name="">
+		</div>
+	   </div>
+	  </form>
+	 </div>
+	</div>
+	&nbsp;
+	&nbsp;
+	&nbsp;
+	&nbsp;
+
+
+  <div class="footer1">
+	  <marquee><h5>Thank you...! for visiting Student Information Website.</h5></marquee>
+	  <p>Student Information © 2020 Copyright</p>
+  </div>
+	
+	</body>
+</html>
